@@ -1,5 +1,5 @@
 import numpy
-a = 10
-b = 20
+a = 13
+b = 23
 sum = a+b
 print sum of two number is = sum
